@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cognición cinemática</string>
+    <string name="pause_text">Pausa</string>
+    <string name="thank_you_message">Gracias!</string>
+    <string name="start">Inicio</string>
+    <string name="start_practice">1. Práctica</string>
+    <string name="start_experiment">2. Experimento</string>
+    <string name="born">Nacido</string>
+    <string name="sex_radio">Sexo</string>
+    <string name="sex_fem">femenino</string>
+    <string name="sex_mal">masculino</string>
+    <string name="sex_no">sin respuesta</string>
+    <string name="hand_radio">Mano dominante</string>
+
+    <string name="hand_left">izquierda</string>
+    <string name="hand_right">derecha</string>
+
+    <string-array name="months_array">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+</resources>

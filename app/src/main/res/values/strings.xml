@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kinematic Cognition</string>
+    <string name="pause_text">Pause</string>
+    <string name="thank_you_message">Thank you!</string>
+    <string name="start">Start</string>
+    <string name="start_practice">1. Practice</string>
+    <string name="start_experiment">2. Experiment</string>
+    <string name="born">Born</string>
+    <string name="sex_radio">Sex</string>
+    <string name="sex_fem">female</string>
+    <string name="sex_mal">male</string>
+    <string name="sex_no">prefer not to answer</string>
+    <string name="hand_radio">Dominant hand</string>
+    <string name="hand_left">left</string>
+    <string name="hand_right">right</string>
+
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
